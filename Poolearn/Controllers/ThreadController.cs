@@ -8,7 +8,7 @@ using System.Web.Mvc;
 
 namespace Poolearn.Controllers
 {
-    public class HomeController : Controller
+    public class ThreadController : Controller
     {
         public ActionResult Index()
         {
